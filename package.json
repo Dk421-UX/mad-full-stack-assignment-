@@ -1,0 +1,8 @@
+{
+  "name":"viyaan-student-form",
+  "version":"1.0.0",
+  "description":"Beginner full-stack student registration form",
+  "main":"server.js",
+  "scripts":{"start":"node server.js","dev":"node server.js"},
+  "dependencies":{"express":"^4.21.2","multer":"^1.4.5-lts.1","sqlite3":"^5.1.7"}
+}
